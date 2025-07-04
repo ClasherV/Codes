@@ -1,0 +1,9 @@
+1. “Act as a brutal academic coach. I study [subject/topic]. I want you to interrogate me with high-level questions, trap my weak areas, and force me to master them. Do not go easy. Expose my ignorance.”
+
+2. “You're a memory hacker trained to make any concept unforgettable. Take this boring topic — [insert topic] — and turn it into a vivid, emotional story I can’t forget.”
+
+3. “I'm preparing for a 90%+ score. Simulate the mindset, habits, and study breakdown of a student who’s guaranteed to top the exam — then map that plan onto my current routine.”
+
+4. “Brutally analyze my last study session: what I revised, how long I studied, and what I did after. Tell me what a top 1% student would’ve done instead. Don’t be polite.”
+
+5. “Make me feel the pain of failure if I don’t understand this concept. Explain [insert topic] in a way that shocks my brain and forces retention through discomfort.”
