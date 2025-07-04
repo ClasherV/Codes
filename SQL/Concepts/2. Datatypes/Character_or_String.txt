@@ -1,0 +1,3 @@
+Char(n)
+Varchar(n)
+Text

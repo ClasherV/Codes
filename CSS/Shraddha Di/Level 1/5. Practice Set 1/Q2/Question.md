@@ -1,0 +1,1 @@
+Create 3 Headings with h1, h2 and h3. Give them all a Class "heading" and set Color of "heading" to Red.

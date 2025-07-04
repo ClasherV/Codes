@@ -1,0 +1,111 @@
+Set 1: Introduction Topics (Foundational Knowledge)
+Introduction to Computer Science (ICS)
+Computer Organization and Architecture (COA)
+Assembly
+CPU Architecture
+Memory Hierarchy
+Digital Electronics (DE)
+Operating System (OS) Basics
+Networking (Intro, Protocols, OSI Model)
+Logic Design (Basic concepts of Digital Electronics)
+Set 2: Programming Languages (Core Programming Skills)
+C
+C++
+Java
+Python
+Ruby
+Go
+Rust
+Kotlin (for Android Development)
+Set 3: Databases and SQL (Data Management Skills)
+DBMS Basics
+SQL (SELECT, JOIN, Subqueries, etc.)
+NoSQL (MongoDB, Cassandra)
+API Integration with Databases
+Set 4: Web Development (Frontend, Backend, and Full-Stack)
+Frontend Development:
+HTML
+CSS
+JavaScript
+React.js
+Angular
+Backend Development:
+Node.js
+Express
+Django
+Spring Boot
+Full-Stack Development (MERN)
+APIs (REST, GraphQL)
+Set 5: Software Tools (Development, Version Control, and Productivity)
+VSCode (IDE Basics, Extensions)
+Git and GitHub (Version Control, Collaboration)
+Notion (For Notes, Tasks, Organization)
+Excel, Powerpoint, PowerBI (Data Analysis, Presentation)
+Docker, Kubernetes (Containers and Orchestration)
+Set 6: AI/ML and Data Science (Data-Driven Technologies)
+Machine Learning (ML)
+Deep Learning
+AI Fundamentals
+Data Science & Analytics
+Pandas, NumPy, Matplotlib
+TensorFlow, PyTorch
+Scikit-learn
+Data Visualization (Matplotlib, Seaborn)
+Set 7: High-End Technologies and Concepts
+Cloud Computing
+Blockchain
+Quantum Computing
+Grid Computing
+Cyber Security
+Ethical Hacking
+IOT (Internet of Things)
+Embedded Systems
+System Design
+AR/VR
+Set 8: Android Development (Mobile App Development)
+Android Studio
+Kotlin
+Android App Architecture (MVVM)
+Mobile App Development
+API Integration with Android Apps
+Cross-Platform Mobile Development (Flutter, React Native)
+Set 9: Game Development (Design and Implementation)
+Game Engines: Unity, Unreal Engine
+Game Development Fundamentals
+Physics, 3D Graphics
+Game Programming (C#, Unity Scripting)
+AI in Game Development
+Set 10: Software Development (General Development Skills)
+Software Development Life Cycle (SDLC)
+Agile Methodology
+OOP Design Patterns
+Testing: Unit, Integration, System Testing
+Continuous Integration (CI/CD)
+DevOps
+Version Control: Git, GitHub
+System Design (Scalable and Maintainable Systems)
+Set 11: Miscellaneous Topics (Other Important Areas)
+UI/UX Design
+Wireframing, Prototyping (Figma, Adobe XD)
+Robotics
+Embedded Systems in Robotics
+Sensors, Actuators, and Control Systems
+Linux/Unix
+Command-Line Basics, Shell Scripting
+Not Easily Grouped Technologies
+Typescript
+Ruby on Rails
+Rust (Advanced Concepts)
+GenAI, Prompt Engineering
+Notes on the Sets:
+Set 1 provides the foundational knowledge you’ll need for everything that follows.
+Set 2 contains the core programming languages that help you develop coding skills and prepare for backend development and other programming tasks.
+Set 3 ensures you are proficient in data management and database queries, which will be important when working with any kind of data-driven applications.
+Set 4 handles web development, integrating frontend and backend for building websites and applications.
+Set 5 is focused on productivity tools like VSCode and Git/GitHub, as well as basic software tools (Notion for notes, Excel for analysis).
+Set 6 focuses on Data Science, AI, and Machine Learning, which are essential for working with big data, predictions, and automation.
+Set 7 includes higher-level, cutting-edge topics that you can dive into once you’ve mastered the core concepts.
+Set 8 is all about mobile development for Android and cross-platform apps.
+Set 9 is for Game Development, where you’ll learn to create interactive applications.
+Set 10 addresses software development practices, DevOps, and methodologies for building large-scale applications.
+Set 11 is a catch-all for various other topics like UI/UX, Robotics, and Linux/Unix that don’t neatly fit into other sets. I want this type this whole again

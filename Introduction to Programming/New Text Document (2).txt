@@ -1,0 +1,158 @@
+Set 1: Introduction Topics (Foundational Knowledge)
+Introduction to Computer Science (ICS)
+Computer Organization and Architecture (COA)
+Assembly
+CPU Architecture
+Memory Hierarchy
+Digital Electronics (DE)
+Operating System (OS) Basics
+Logic Design
+Basic Concepts of Digital Electronics
+Set 2: Programming Languages (Core Programming Skills)
+C
+C++
+Java
+Python
+Ruby
+Go
+Rust
+Kotlin (for Android Development)
+Data Structures and Algorithms (DSA)
+Design and Analysis of Algorithms (DAA)
+Set 3: Databases and SQL (Data Management Skills)
+DBMS Basics
+SQL
+SELECT, JOIN, Subqueries, etc.
+NoSQL
+MongoDB, Cassandra
+API Integration with Databases
+Set 4: Web Development (Frontend, Backend, and Full-Stack)
+Web and Internet Basics
+History and Evolution of the Internet
+WWW, Browsers, Search Engines
+Frontend Development
+HTML
+CSS
+JavaScript
+React.js
+Angular
+Typescript
+Backend Development
+Node.js
+Express
+Django
+Spring Boot
+Full-Stack Development (MERN)
+APIs (REST, GraphQL)
+Set 5: Software Tools (Development, Version Control, and Productivity)
+VSCode
+IDE Basics, Extensions
+Git and GitHub
+Version Control, Collaboration
+Notion
+For Notes, Tasks, Organization
+Excel, Powerpoint, PowerBI
+Data Analysis, Presentation
+Docker, Kubernetes
+Containers and Orchestration
+Adobe Tools
+Photoshop
+Premiere Pro
+Animate
+Blender
+3D Modeling and Animation
+Filmora
+Video Editing
+Scratch
+Visual Programming for Beginners
+Set 6: AI/ML and Data Science (Data-Driven Technologies)
+Machine Learning (ML)
+Deep Learning
+AI Fundamentals
+Data Science & Analytics
+Pandas, NumPy, Matplotlib
+TensorFlow, PyTorch
+Scikit-learn
+Data Visualization
+Matplotlib, Seaborn
+Set 7: Emerging Trends
+Computing
+Cloud Computing
+Grid Computing
+Big Data
+Security
+Cyber Security
+Ethical Hacking
+Systems
+Internet of Things (IOT)
+Embedded Systems
+Other
+Augmented Reality/Virtual Reality (AR/VR)
+Blockchain
+Prompt Engineering
+Set 8: Android Development (Mobile App Development)
+Android Studio
+Kotlin
+Android App Architecture (MVVM)
+Mobile App Development
+API Integration with Android Apps
+Cross-Platform Mobile Development
+Flutter, React Native
+Set 9: Game Development (Design and Implementation)
+Game Engines
+Unity, Unreal Engine
+Game Development Fundamentals
+Physics, 3D Graphics
+Game Programming
+C#, Unity Scripting
+AI in Game Development
+Set 10: Software Development (General Development Skills)
+Software Development Life Cycle (SDLC)
+Agile Methodology
+OOP Design Patterns
+Testing
+Unit, Integration, System Testing
+Continuous Integration (CI/CD)
+DevOps
+Version Control
+Git, GitHub
+System Design
+Scalable and Maintainable Systems
+Set 11: Operating Systems (OS)
+Operating System Fundamentals
+Windows OS
+Linux OS
+Unix OS
+In-Depth OS Concepts
+Set 12: High-End Technologies
+UI/UX Design
+Wireframing, Prototyping (Figma, Adobe XD)
+Robotics
+Embedded Systems in Robotics
+Sensors, Actuators, and Control Systems
+Quantum Computing
+GenAI
+AI
+Robotics
+GenAI
+Set 13: Mathematics, Physics, Chemistry, Biology, Probability, Statistics
+Mathematics
+Calculus, Algebra, Geometry, Trigonometry
+Physics
+Mechanics, Thermodynamics, Electromagnetism
+Chemistry
+Organic, Inorganic, Physical Chemistry
+Biology
+Genetics, Anatomy, Cell Biology
+Probability
+Statistics
+Set 14: Languages, Law, Geography, Typing, Miscellaneous Skills
+Languages
+English, Spanish, French, etc.
+Law
+Geography
+Typing
+Conspiracy Theories
+Observer Mode
+Sketching
+Scratch (added to dev tools earlier)

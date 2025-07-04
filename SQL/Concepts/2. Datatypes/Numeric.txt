@@ -1,0 +1,6 @@
+Integer/Int
+Smallint
+Bigint
+Decimal
+Float
+Double

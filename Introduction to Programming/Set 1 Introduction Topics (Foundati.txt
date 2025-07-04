@@ -1,0 +1,117 @@
+Set 1: Introduction Topics (Foundational Knowledge)
+Introduction to Computer Science (ICS)
+Computer Organization and Architecture (COA)
+Assembly
+CPU Architecture
+Memory Hierarchy
+Digital Electronics (DE)
+Operating System (OS) Basics
+Networking
+Intro, Protocols, OSI Model
+Logic Design
+Basic Concepts of Digital Electronics
+Set 2: Programming Languages (Core Programming Skills)
+C
+C++
+Java
+Python
+Ruby
+Go
+Rust
+Kotlin (for Android Development)
+Set 3: Databases and SQL (Data Management Skills)
+DBMS Basics
+SQL
+SELECT, JOIN, Subqueries, etc.
+NoSQL
+MongoDB, Cassandra
+API Integration with Databases
+Set 4: Web Development (Frontend, Backend, and Full-Stack)
+Frontend Development
+HTML
+CSS
+JavaScript
+React.js
+Angular
+Typescript
+Backend Development
+Node.js
+Express
+Django
+Spring Boot
+Full-Stack Development (MERN)
+APIs
+REST, GraphQL
+Set 5: Software Tools (Development, Version Control, and Productivity)
+VSCode
+IDE Basics, Extensions
+Git and GitHub
+Version Control, Collaboration
+Notion
+For Notes, Tasks, Organization
+Excel, Powerpoint, PowerBI
+Data Analysis, Presentation
+Docker, Kubernetes
+Containers and Orchestration
+Set 6: AI/ML and Data Science (Data-Driven Technologies)
+Machine Learning (ML)
+Deep Learning
+AI Fundamentals
+Data Science & Analytics
+Pandas, NumPy, Matplotlib
+TensorFlow, PyTorch
+Scikit-learn
+Data Visualization
+Matplotlib, Seaborn
+Set 7: Emerging Trends
+Computing
+Cloud Computing
+Grid Computing
+Quantum Computing
+Security
+Cyber Security
+Ethical Hacking
+Systems
+Internet of Things (IOT)
+Embedded Systems
+AI
+Robotics
+GenAI
+Other
+Augmented Reality/Virtual Reality (AR/VR)
+Blockchain
+Prompt Engineering
+Set 8: Android Development (Mobile App Development)
+Android Studio
+Kotlin
+Android App Architecture (MVVM)
+Mobile App Development
+API Integration with Android Apps
+Cross-Platform Mobile Development
+Flutter, React Native
+Set 9: Game Development (Design and Implementation)
+Game Engines
+Unity, Unreal Engine
+Game Development Fundamentals
+Physics, 3D Graphics
+Game Programming
+C#, Unity Scripting
+AI in Game Development
+Set 10: Software Development (General Development Skills)
+Software Development Life Cycle (SDLC)
+Agile Methodology
+OOP Design Patterns
+Testing
+Unit, Integration, System Testing
+Continuous Integration (CI/CD)
+DevOps
+Version Control
+Git, GitHub
+System Design
+Scalable and Maintainable Systems
+Set 12: Operating Systems (OS)
+Operating System Fundamentals
+Windows OS
+Linux OS
+Unix OS
+In-Depth OS Concepts

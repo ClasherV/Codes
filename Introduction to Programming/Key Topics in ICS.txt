@@ -1,0 +1,53 @@
+Key Topics in ICS
+Basics of Computers
+
+What is a Computer?
+Components of a Computer (Hardware and Software)
+Input, Output, and Storage Devices
+Number Systems
+
+Binary, Decimal, Octal, and Hexadecimal
+Conversions between Number Systems
+Introduction to Programming
+
+What is Programming?
+Algorithms and Flowcharts
+Introduction to Programming Languages (High-Level vs Low-Level Languages)
+Data Representation
+
+Bits and Bytes
+ASCII, Unicode, and Other Encoding Schemes
+Computer Hardware
+
+CPU, RAM, ROM, Motherboard
+Peripheral Devices (Printers, Scanners)
+Storage (HDDs, SSDs, Cloud Storage)
+Computer Software
+
+Types of Software: System Software (OS), Application Software, Utility Programs
+Software Development Life Cycle (SDLC)
+Operating Systems Basics
+
+Role of an OS
+Examples (Windows, Linux, macOS)
+Concepts: File System, Process Management
+Networking Basics
+
+What is a Network?
+Types of Networks (LAN, WAN, Internet)
+Introduction to Protocols (HTTP, TCP/IP, DNS)
+Introduction to the Internet
+
+History and Evolution of the Internet
+World Wide Web (WWW)
+Browsers and Search Engines
+Basic Cybersecurity Concepts
+
+Cyber Threats (Malware, Phishing, Ransomware)
+Importance of Passwords and Encryption
+Emerging Technologies
+
+Artificial Intelligence, Machine Learning, IoT, Cloud Computing
+Careers in Computer Science
+
+Software Development, Data Science, Cybersecurity, Game Development 
